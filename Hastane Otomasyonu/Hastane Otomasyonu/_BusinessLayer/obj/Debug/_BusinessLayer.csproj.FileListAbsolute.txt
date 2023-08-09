@@ -1,0 +1,24 @@
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 GÜZ\Bahar\Görsel Programlama\Uygulamalar\1. Öğretimler\Hafta 2\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 GÜZ\Bahar\Görsel Programlama\Uygulamalar\1. Öğretimler\Hafta 2\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 GÜZ\Bahar\Görsel Programlama\Uygulamalar\1. Öğretimler\Hafta 2\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\Sahin\Desktop\PLATO MYO\2017 - 2018 GÜZ\Bahar\Görsel Programlama\Uygulamalar\1. Öğretimler\Hafta 2\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
+C:\Users\User\Desktop\Görsel Programlama\Hafta 2\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\User\Desktop\Görsel Programlama\Hafta 2\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\User\Desktop\Görsel Programlama\Hafta 2\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\User\Desktop\Görsel Programlama\Hafta 2\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
+C:\Users\User\Desktop\Görsel Programlama\Hafta 2\_BusinessLayer\obj\Debug\_BusinessLayer.csprojResolveAssemblyReference.cache
+F:\HASTANE OTOMASYONU\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+F:\HASTANE OTOMASYONU\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+F:\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.csprojResolveAssemblyReference.cache
+F:\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+F:\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
+G:\HASTANE OTOMASYONU\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+G:\HASTANE OTOMASYONU\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+G:\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.csprojResolveAssemblyReference.cache
+G:\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+G:\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\_BusinessLayer\bin\Debug\_BusinessLayer.dll
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\_BusinessLayer\bin\Debug\_BusinessLayer.pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.dll
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\_BusinessLayer\obj\Debug\_BusinessLayer.pdb

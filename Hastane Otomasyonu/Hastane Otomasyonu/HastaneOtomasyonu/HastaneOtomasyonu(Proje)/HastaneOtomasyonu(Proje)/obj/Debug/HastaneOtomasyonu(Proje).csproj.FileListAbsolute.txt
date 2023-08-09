@@ -1,0 +1,60 @@
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe.config
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).exe
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).pdb
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csprojResolveAssemblyReference.cache
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DokRandevular.resources
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DoktorKayit.resources
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.HastaKayit.resources
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.RandevuAlma.resources
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Giris.resources
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Properties.Resources.resources
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csproj.GenerateResource.Cache
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).pdb
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.dll
+C:\Users\baris\Desktop\BARISBACKUP\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.pdb
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe.config
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).exe
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).pdb
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).pdb
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.dll
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.pdb
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csprojResolveAssemblyReference.cache
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DokRandevular.resources
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DoktorKayit.resources
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.HastaKayit.resources
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.RandevuAlma.resources
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Giris.resources
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Properties.Resources.resources
+F:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csproj.GenerateResource.Cache
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe.config
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).exe
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).pdb
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).pdb
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.dll
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.pdb
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csprojResolveAssemblyReference.cache
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DokRandevular.resources
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DoktorKayit.resources
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.HastaKayit.resources
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.RandevuAlma.resources
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Giris.resources
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Properties.Resources.resources
+G:\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csproj.GenerateResource.Cache
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe.config
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).exe
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).exe
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\HastaneOtomasyonu(Proje).pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.dll
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\bin\Debug\_BusinessLayer.pdb
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csprojResolveAssemblyReference.cache
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DokRandevular.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.DoktorKayit.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.HastaKayit.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.RandevuAlma.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Giris.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu_Proje_.Properties.Resources.resources
+C:\Users\Casper\Desktop\BARIŞ B\Dersler\Görsel Programlama\HOSPİTAL\HASTANE OTOMASYONU\HastaneOtomasyonu\HastaneOtomasyonu(Proje)\HastaneOtomasyonu(Proje)\obj\Debug\HastaneOtomasyonu(Proje).csproj.GenerateResource.Cache
